@@ -41,3 +41,7 @@ Welcome, below is everything you need to know in order to get started.
       - How to use Quarkus to write data-driven applications using a variety of data sources with just a few lines of code.
     - https://developers.redhat.com/learn/openshift/developing-openshift-applications-java-and-quarkus
 
+
+# Some markdown
+*click below*
+<a href="https://developers.redhat.com/courses/subsystems/intro" target="_blank">Introduction to containers and kubernetes</a>
